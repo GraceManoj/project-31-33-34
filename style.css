@@ -17,3 +17,18 @@ p.lead{
 .navbar-brand{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+#About{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: maroon
+}
+h5{
+    font-size: larger;
+}
+i{
+    color: darkolivegreen;
+}
+q{
+    color: olivedrab;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
